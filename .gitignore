@@ -1,0 +1,19 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 环境
+.env
+.venv
+venv/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统
+Thumbs.db
+.DS_Store
